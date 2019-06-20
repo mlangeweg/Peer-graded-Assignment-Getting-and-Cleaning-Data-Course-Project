@@ -10,10 +10,18 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-You should create one R script called run_analysis.R that does the following.
 
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement.
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive variable names.
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+### Included in this Repository:
+1. **README.md**<br/>
+  Description of assignment for week 4 of Getting and Cleaning Data Course and its requirements.
+2. **run_analysis.R**<br/>
+  R script which retrieves and cleans the Human Activity Recognition Using Smartphones Data Set according to the following project requirements.
+    * Merges the training and the test sets to create one data set.
+    * Extracts only the measurements on the mean and standard deviation for each measurement.
+    * Uses descriptive activity names to name the activities in the data set.
+    * Appropriately labels the data set with descriptive variable names.
+    * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+3. **codebook.md**<br/>
+  Codebook which describes the data, variables and tranformations used in R script *run_analysis.R*.
+4. **humanActivityMeansTidy.txt**<br/>
+  Clean and tidy dataset produced by *run_analysis.R*.
