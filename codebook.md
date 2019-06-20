@@ -1,5 +1,5 @@
 ## Codebook assosciated with *run_analysis.R*
-This codebook helps decribe the *humanActivityMeansTidy.txt* space seperated text file produced by *run_analysis.R*. Each obseravtion represents averaged signal measurements for unique identidiers 'Subject' and 'Activity'.  There are thirty unique subjects in the dataset, and six factor levels for Activity. The processed data contains one-hundred-eighty observations of eighty-eight variables.
+This codebook helps decribe the *humanActivityMeansTidy.txt* space seperated text file produced by *run_analysis.R*. Each obseravtion represents averaged signal measurements for unique identifiers 'Subject' and 'Activity'.  There are thirty unique subjects in the dataset, and six factor levels for Activity. The processed data contains one-hundred-eighty observations of eighty-eight variables.
 
 The Human Activity Recognition Using Smartphones Data Set is used for this project. Additional information about the data, and the dataset can be found at the UCI Machine Learning Repository. http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#.
 
