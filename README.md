@@ -24,4 +24,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 3. **codebook.md**<br/>
   Codebook which describes the data, variables and tranformations used in R script *run_analysis.R*.
 4. **humanActivityMeansTidy.txt**<br/>
-  Clean and tidy dataset produced by *run_analysis.R*.
+  Clean and tidy dataset according to specified analysis requirements; produced by *run_analysis.R*.
