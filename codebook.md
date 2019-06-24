@@ -91,7 +91,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
  13. `subject.dat` - 10299 x 1 data frame. Merged training and test set for subject key identifiers.
  14. `humanActivity.dat` - 10299 x 563 data frame. Complete data set.
  15. `humanActivityTidy.dat` - 10299 x 88 data frame. Filtered data set of means and standard deviations.
- 16. `humanActivityMeansTidy.dat` - 180 x 88  grouped data frame which describes the means of each variable for each activity and subject.
+ 16. `humanActivityMeansTidy.dat` - 180 x 88  grouped data frame which describes the means of each variable for each activity and subject of `humanActivityTidy.dat`.
  
 
 
