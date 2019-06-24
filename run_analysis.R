@@ -39,7 +39,7 @@ if(!file.exists("./data")){
 
 # Download zip file from url destination
 if(!file.exists("./data/Dataset.zip")) {  
-  download.file(urlDat, destfile="./data/Dataset.zip", method = "curl")  
+  download.file(urlDat, destfile="./data/Dataset.zip")  
 }
 
 # Unzip directory  
